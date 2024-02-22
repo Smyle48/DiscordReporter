@@ -1,0 +1,8 @@
+USER:ROOT
+PASSWORD:ROOT
+
+
+======================COMMAND LIST==================================
+
+                  stop = stop with reporting
+                  ID   = Lookup the users ID
